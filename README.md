@@ -5,7 +5,7 @@
 
 I'm a Software Developer in Winnipeg, Manitoba, Canada!
 
-- 🔭 I’m currently working on a **really cool project!**
+- 🔭 I’m currently working on a **really cool project involving the Spotify API!**
 - 🌱 I’m currently learning **Angular, Entity Framework, AWS**.
 - 📫 How to reach me: Take your pick at **[my website!](http://danielwburch.com)**
-- ⚡ Fun fact: **Music is more important than food.**
+- ⚡ Fun fact: **I'm powered by music!**
